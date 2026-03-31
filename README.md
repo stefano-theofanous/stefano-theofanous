@@ -16,6 +16,7 @@ Building autonomous systems that run real businesses — not demos.
 - **GPU compute fleet management** — multi-machine orchestration, thermal optimization, earnings monitoring
 - **OCR & data pipelines** — document scanning, automated extraction, structured output
 - **Device mesh networking** — multi-PC fleet coordination over Tailscale, SSH, and remote access
+- **Knowledge engineering** — structured ops documentation across 90+ interconnected notes
 
 #### Stack
 
@@ -27,6 +28,7 @@ Building autonomous systems that run real businesses — not demos.
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat&logo=tailscale&logoColor=white)
