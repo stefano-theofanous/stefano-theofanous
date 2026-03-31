@@ -1,6 +1,6 @@
 ### Operations Technology & Cloud Infrastructure
 
-Building autonomous systems that run real businesses — not demos.
+Building autonomous systems that run real businesses.
 
 **Founder @ [GOROSHI LLC](https://goroshillc.com)** — operations technology, infrastructure automation, and AI systems.
 
