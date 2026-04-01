@@ -31,6 +31,12 @@ Production systems that run real businesses.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-141414?style=flat-square&logo=postgresql&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-141414?style=flat-square&logo=cloudflare&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-141414?style=flat-square&logo=linux&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-141414?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-141414?style=flat-square&logo=nodedotjs&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-141414?style=flat-square&logo=cloudflarepages&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-141414?style=flat-square&logo=discord&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-141414?style=flat-square&logo=tailscale&logoColor=white)
+![Git](https://img.shields.io/badge/Git-141414?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
