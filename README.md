@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:1a1a1a,100:080808&height=120&section=header" width="100%" />
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=C41E1E&center=true&vCenter=true&repeat=true&width=750&height=40&lines=Operations+Technology;Systematic+Trading+Infrastructure;AI+Agent+Systems;Cloud+Infrastructure+Engineering" alt="Typing SVG" />
@@ -60,14 +58,6 @@ Production infrastructure that runs real businesses. Not demos. Not tutorials.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=stefano-theofanous&bg_color=080808&color=9f9f9f&line=c41e1e&point=c41e1e&area=true&area_color=c41e1e&hide_border=true&custom_title=Contribution%20Activity" />
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefano-theofanous/stefano-theofanous/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stefano-theofanous/stefano-theofanous/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/stefano-theofanous/stefano-theofanous/output/github-snake-dark.svg" />
-</picture>
-
 <br/>
 
 ---
@@ -83,7 +73,5 @@ Production infrastructure that runs real businesses. Not demos. Not tutorials.
 <sub><b>GOROSHI LLC</b></sub>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:1a1a1a,100:080808&height=80&section=footer" width="100%" />
 
 </div>
