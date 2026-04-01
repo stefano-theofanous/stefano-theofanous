@@ -1,42 +1,90 @@
-### Operations Technology & Cloud Infrastructure
+<div align="center">
 
-Building autonomous systems that run real businesses.
+<br/>
 
-**Founder @ [GOROSHI LLC](https://goroshillc.com)** — operations technology, infrastructure automation, and AI systems.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1500&color=C9A84C&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Operations+Technology+%26+Cloud+Infrastructure;Systematic+Trading+Infrastructure;AI+Agent+Systems+%26+Automation;Production+Systems+That+Run+Real+Business" alt="Typing SVG" />
 
----
+<br/><br/>
 
-#### What I Build
+<img src="https://img.shields.io/badge/GOROSHI_LLC-goroshillc.com-c9a84c?style=for-the-badge&labelColor=080808" />
 
-- **Task orchestration engines** — agent lifecycle management, heartbeat monitoring, SQLite audit trails
-- **Quantitative research pipelines** — systematic backtesting, GARCH volatility modeling, walk-forward validation, Monte Carlo stress testing across 21 years of multi-asset data
-- **Infrastructure as code** — Terraform blueprints for AWS (VPC, ECS Fargate, ALB, CloudWatch)
-- **Network security tooling** — multi-threaded port scanning, firewall auditing, service fingerprinting
-- **Backup & sync infrastructure** — bidirectional multi-host sync with network failover
-- **Production dashboards** — Cloudflare Workers backends, session auth, real-time operations portals
-- **GPU compute fleet management** — multi-machine orchestration, thermal optimization, workload distribution
-- **AI agent systems** — multi-agent orchestration, autonomous task execution, frontier model integration (Claude, Gemini)
-- **Device mesh networking** — multi-PC fleet coordination over Tailscale, edge compute, continuous deployment
+<br/><br/>
 
-#### Stack
+<img src="https://img.shields.io/badge/Python-080808?style=flat-square&logo=python&logoColor=c9a84c" />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-080808?style=flat-square&logo=typescript&logoColor=c9a84c" />&nbsp;
+<img src="https://img.shields.io/badge/Rust-080808?style=flat-square&logo=rust&logoColor=c9a84c" />&nbsp;
+<img src="https://img.shields.io/badge/MQL5-080808?style=flat-square&logoColor=c9a84c" />&nbsp;
+<img src="https://img.shields.io/badge/Terraform-080808?style=flat-square&logo=terraform&logoColor=c9a84c" />&nbsp;
+<img src="https://img.shields.io/badge/AWS-080808?style=flat-square&logo=amazonwebservices&logoColor=c9a84c" />&nbsp;
+<img src="https://img.shields.io/badge/Docker-080808?style=flat-square&logo=docker&logoColor=c9a84c" />&nbsp;
+<img src="https://img.shields.io/badge/Cloudflare-080808?style=flat-square&logo=cloudflare&logoColor=c9a84c" />&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-080808?style=flat-square&logo=postgresql&logoColor=c9a84c" />&nbsp;
+<img src="https://img.shields.io/badge/Linux-080808?style=flat-square&logo=linux&logoColor=c9a84c" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![MQL5](https://img.shields.io/badge/MQL5-4169E1?style=flat&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat&logo=tailscale&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<br/><br/>
 
 ---
 
-[![Website](https://img.shields.io/badge/goroshillc.com-000000?style=flat&logo=google-chrome&logoColor=white)](https://goroshillc.com)
+<br/>
+
+</div>
+
+### What I Build
+
+Production infrastructure that runs real businesses. Not demos. Not tutorials.
+
+| Domain | Scope |
+|--------|-------|
+| **Task Orchestration** | Agent lifecycle, heartbeat monitoring, priority queues, SQLite audit trails |
+| **Quantitative Systems** | GARCH volatility modeling, walk-forward validation, Monte Carlo stress testing |
+| **Cloud Infrastructure** | Terraform — VPC, ECS Fargate, ALB, CloudWatch, multi-AZ deployments |
+| **Network Security** | Multi-threaded scanning, banner grabbing, firewall auditing, service fingerprinting |
+| **Backup Orchestration** | Bidirectional multi-host sync, LAN/VPN failover, robocopy integration |
+| **AI Agent Systems** | Multi-agent orchestration, autonomous execution, frontier model integration |
+| **Operations Platforms** | Cloudflare Workers, session auth, real-time dashboards, 26+ production tools |
+| **Device Mesh** | Multi-PC coordination over Tailscale, edge compute, continuous deployment |
+
+<br/>
+
+<div align="center">
+
+---
+
+<br/>
+
+<a href="https://github.com/stefano-theofanous">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=stefano-theofanous&show_icons=true&hide_border=true&bg_color=080808&title_color=c9a84c&text_color=9f9f9f&icon_color=c9a84c&ring_color=c9a84c&count_private=true&include_all_commits=true" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/stefano-theofanous">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefano-theofanous&layout=compact&hide_border=true&bg_color=080808&title_color=c9a84c&text_color=9f9f9f&langs_count=8" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=stefano-theofanous&hide_border=true&background=080808&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=9F9F9F&currStreakNum=C9A84C&sideNums=9F9F9F&dates=555555" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=stefano-theofanous&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=12&margin-h=12" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stefano-theofanous&bg_color=080808&color=9f9f9f&line=c9a84c&point=c9a84c&area=true&area_color=c9a84c&hide_border=true&custom_title=Contribution%20Activity" />
+
+<br/>
+
+---
+
+<br/>
+
+<a href="https://goroshillc.com">
+<img src="https://img.shields.io/badge/goroshillc.com-080808?style=for-the-badge&logo=google-chrome&logoColor=c9a84c" />
+</a>
+
+<br/><br/>
+
+<sub><b>GOROSHI LLC</b></sub>
+
+<br/><br/>
+
+</div>
