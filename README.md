@@ -1,25 +1,40 @@
-## GOROSHI LLC
+<div align="center">
 
-Operations technology and cloud infrastructure. Building production systems that run real businesses.
+## GOROSHI LLC &nbsp;·&nbsp; 殺し
 
-### What I Ship
+**Operations Technology & Cloud Infrastructure**
 
-**Infrastructure** — Terraform IaC, ECS Fargate clusters, multi-AZ deployments, CloudWatch observability, CI/CD pipelines
+Building production systems that run real businesses.
 
-**Orchestration** — Multi-agent lifecycle management, heartbeat monitoring, priority queue routing, audit trail systems
+&nbsp;
 
-**Quantitative** — GARCH volatility modeling, walk-forward validation, Monte Carlo stress testing, regime detection
+![Python](https://img.shields.io/badge/Python-141414?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-141414?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-141414?style=flat-square&logo=rust&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-141414?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-141414?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-141414?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-141414?style=flat-square&logo=postgresql&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-141414?style=flat-square&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-141414?style=flat-square&logo=linux&logoColor=white)
 
-**Security** — Network reconnaissance tooling, port scanning, banner grabbing, firewall auditing, service fingerprinting
+</div>
 
-**Operations** — Cloudflare Workers edge compute, session auth, real-time dashboards, 26+ production tools serving live business ops
+&nbsp;
 
-### Stack
+| Domain | What I Ship |
+|:-------|:------------|
+| **Infrastructure** | Terraform IaC — VPC, ECS Fargate, ALB, CloudWatch, multi-AZ production deployments |
+| **Orchestration** | Agent lifecycle management, heartbeat monitoring, priority queues, audit trails |
+| **Quantitative** | GARCH volatility modeling, walk-forward validation, Monte Carlo stress testing |
+| **Security** | Port scanning, banner grabbing, firewall auditing, service fingerprinting |
+| **Operations** | Cloudflare Workers, session auth, real-time dashboards, 26+ production tools |
+| **AI Systems** | Multi-agent orchestration, autonomous execution, frontier model integration |
 
-```
-python · typescript · rust · mql5 · terraform · aws · docker · cloudflare workers · postgresql · linux
-```
+&nbsp;
 
-### Links
+<div align="center">
 
-[goroshillc.com](https://goroshillc.com)
+[![goroshillc.com](https://img.shields.io/badge/goroshillc.com-c41e1e?style=flat-square&logoColor=white)](https://goroshillc.com)
+
+</div>
