@@ -1,22 +1,25 @@
-<div align="center">
+## GOROSHI LLC
 
-<samp>
+Operations technology and cloud infrastructure. Building production systems that run real businesses.
 
-[goroshillc.com](https://goroshillc.com) · [infrastructure](https://goroshillc.com) · [systems](https://goroshillc.com) · [automation](https://goroshillc.com)
+### What I Ship
 
-</samp>
+**Infrastructure** — Terraform IaC, ECS Fargate clusters, multi-AZ deployments, CloudWatch observability, CI/CD pipelines
 
-&nbsp;
+**Orchestration** — Multi-agent lifecycle management, heartbeat monitoring, priority queue routing, audit trail systems
 
-**GOROSHI LLC** · operations technology
+**Quantitative** — GARCH volatility modeling, walk-forward validation, Monte Carlo stress testing, regime detection
 
-&nbsp;
+**Security** — Network reconnaissance tooling, port scanning, banner grabbing, firewall auditing, service fingerprinting
 
-building production systems that run real businesses —<br>
-infrastructure automation, systematic trading engines, AI agent orchestration.
+**Operations** — Cloudflare Workers edge compute, session auth, real-time dashboards, 26+ production tools serving live business ops
 
-&nbsp;
+### Stack
 
-`python` · `typescript` · `rust` · `terraform` · `aws` · `docker` · `postgresql` · `cloudflare workers`
+```
+python · typescript · rust · mql5 · terraform · aws · docker · cloudflare workers · postgresql · linux
+```
 
-</div>
+### Links
+
+[goroshillc.com](https://goroshillc.com)
