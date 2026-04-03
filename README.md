@@ -6,7 +6,7 @@
 
 &nbsp;
 
-Founder & Engineer — AI automation, property operations technology, and cloud infrastructure for businesses generating real revenue.
+AI automation, property operations technology, and cloud infrastructure for businesses generating real revenue.
 
 &nbsp;
 
@@ -43,7 +43,7 @@ Founder & Engineer — AI automation, property operations technology, and cloud 
 <thead>
 <tr>
 <th align="left">Domain</th>
-<th align="left">What I Build</th>
+<th align="left">What We Build</th>
 </tr>
 </thead>
 <tbody>
@@ -59,7 +59,7 @@ Founder & Engineer — AI automation, property operations technology, and cloud 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=stefano-theofanous&theme=black-ice&hide_border=true&background=0D1117&ring=C41E1E&fire=C41E1E&currStreakLabel=C41E1E&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=goroshillc&theme=black-ice&hide_border=true&background=0D1117&ring=C41E1E&fire=C41E1E&currStreakLabel=C41E1E&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" alt="GitHub Streak" />
 
 </div>
 
@@ -67,6 +67,6 @@ Founder & Engineer — AI automation, property operations technology, and cloud 
 
 <div align="center">
 
-<sub>殺し — to kill inefficiency</sub>
+<sub>GOROSHI LLC — goroshillc.com</sub>
 
 </div>
